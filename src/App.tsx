@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { Idea } from './types';
-import { getCategory } from './utils';
 import IdeaForm from './components/IdeaForm';
 import IdeasTable from './components/IdeasTable';
 import IdeasMatrix from './components/IdeasMatrix';

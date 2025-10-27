@@ -1,6 +1,6 @@
 import { Idea } from '../types';
 import { getCategory, getCategoryEmoji, getCategoryColor } from '../utils';
-import { Trash2, Edit2 } from 'lucide-react';
+import { Trash2 } from 'lucide-react';
 
 interface IdeasTableProps {
   ideas: Idea[];
